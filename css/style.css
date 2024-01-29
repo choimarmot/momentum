@@ -53,6 +53,7 @@ main {
 
 #login-input {
     font-size: min(30px, 5vw);
+    text-align: center;
     color: whitesmoke;
     background-color: transparent;
     border: none;
@@ -86,7 +87,7 @@ main {
     background-color: transparent;
     border: none;
     outline: none;
-    border-bottom: 2px solid whitesmoke;
+    margin-top: 5px;
 }
 
 #todo-list {
