@@ -42,7 +42,7 @@ main {
 
 #login-guide {
     text-align: center;
-    font-size: 38px;
+    font-size: 40px;
     color: whitesmoke;
     text-shadow: 7px 7px 10px rgba(0, 0, 0, 0.3);
     margin-bottom: 30px;
@@ -53,6 +53,7 @@ main {
 
 #login-input {
     font-size: min(30px, 5vw);
+    color: whitesmoke;
     background-color: transparent;
     border: none;
     outline: none;
@@ -60,14 +61,34 @@ main {
 }
 
 #login-button {
-    font-size: 40px;
+    font-size: 37px;
     color: whitesmoke;
     background-color: transparent;
     border: none;
     outline: none;
     text-shadow: 7px 7px 10px rgba(0, 0, 0, 0.3);
-
 }
+
+#greeting {
+    text-align: center;
+    font-size: 40px;
+    color: whitesmoke;
+    text-shadow: 7px 7px 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+}
+
+/* 투두리스트 */
+
+#todo-input {
+    font-size: 24px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid whitesmoke;
+}
+
 /* 명언 */
 
 #quote {
