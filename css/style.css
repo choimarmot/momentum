@@ -83,6 +83,7 @@ main {
     border: none;
     outline: none;
     border-bottom: 2px solid whitesmoke;
+    max-width: 100%;
 }
 
 #login-button {
@@ -146,7 +147,7 @@ position: absolute;
 text-align: center;
 height: 2%;
 bottom: 2px;
-max-width: 100%;
+width: 100%;
 }
 
 #quote {
