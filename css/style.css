@@ -14,6 +14,19 @@ html, body, h1, h2, p, footer, header, #clock, #login-form, #greeting, #todo-for
 .hidden {
     display: none;
 }
+/* 날씨 */
+
+header {
+    position: absolute;
+    text-align: right;
+    top: 3%;
+    right: 1%;
+}
+
+#weather {
+    color: whitesmoke;
+    text-shadow: 7px 7px 10px rgba(0, 0, 0, 0.3);
+}
 
 /* 배경 */
 body {
