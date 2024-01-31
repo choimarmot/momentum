@@ -75,8 +75,8 @@ main {
 }
 
 #login-input {
-    font-size: min(35px, 5vw);
-    width: 75%;
+    font-size: min(32px, 5vw);
+    width: 70%;
     text-align: center;
     color: whitesmoke;
     background-color: transparent;
